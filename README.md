@@ -13,13 +13,13 @@ Create a simple phishing-awareness training prototype that includes:
 
 ## Contents
 
-- phisingawarenesslesson.txt  
+- phising_awareness_lesson.txt  
   Text version of the phishing-awareness lesson used in the prototype.
 
-- phisingawarenessquiz.txt  
+- phising_awareness_quiz.txt  
   Link to the Google Form used as the phishing quiz.
 
-- trainingdash.txt  
+- training_dash.txt  
   Link to the Google Sheet used as a simple dashboard to view quiz completions.
   
 - user_stories.txt
