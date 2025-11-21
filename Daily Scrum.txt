@@ -1,0 +1,19 @@
+﻿Daily Scrum
+
+
+Daily Scrum 1:
+Yesterday: Wrote lesson
+Today: Build quiz
+Blockers: None
+
+
+Daily Scrum 2:
+Yesterday: Linked quiz to Sheets
+Today: Build dashboard
+Blockers: Formatting
+
+
+Daily Scrum 3:
+Yesterday: Finished dashboard
+Today: Test everything
+Blockers: None

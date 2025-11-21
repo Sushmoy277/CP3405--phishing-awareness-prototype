@@ -1,0 +1,8 @@
+﻿User Stories
+
+
+1. As a user, I want to view a lesson so I can learn phishing basics.
+2. As a user, I want to take a quiz so I can check my understanding.
+3. As a user, I want the quiz to auto-submit.
+4. As a manager, I want to see completed users.
+5. As a manager, I want to see users who did not complete.

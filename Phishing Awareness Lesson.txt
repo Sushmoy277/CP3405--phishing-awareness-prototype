@@ -1,0 +1,22 @@
+﻿Phishing Awareness Lesson
+
+
+1. What is Phishing?
+Phishing is when scammers send fake emails or messages pretending to be someone you trust. They try to trick you into clicking unsafe links or giving personal information.
+
+
+2. Signs of Phishing Emails:
+- Strange or misspelled sender address
+- Spelling mistakes
+- Unexpected attachments or links
+- Messages full of pressure or urgency
+
+
+3. How to Stay Safe:
+- Do not click unknown links
+- Check the sender’s address
+- Report suspicious emails to IT
+- Never share your password
+
+
+End of Lesson.
